@@ -1,0 +1,49 @@
+2025-05-14 01:12:53,394 INFO Websocket connected
+2025-05-14 01:12:53,394 INFO WebSocket connected
+2025-05-14 01:13:29,588 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:29,689 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:29,793 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:40,988 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:41,096 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:41,201 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:41,305 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:41,392 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:43,691 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:43,790 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:43,887 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:43,986 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,088 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,187 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,290 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,387 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,491 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,592 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,689 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,787 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,886 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:44,985 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,086 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,227 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,288 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,431 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,486 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,584 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,733 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:13:45,788 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:25:31,201 INFO Websocket connected
+2025-05-14 01:25:31,202 INFO WebSocket connected
+2025-05-14 01:51:49,664 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:51:49,771 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:51:49,880 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:51:49,993 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:51:50,100 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:51:50,170 ERROR Error processing orderbook: could not convert string to float: ''
+2025-05-14 01:53:20,650 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ASUS Vivobook\Desktop\goqwant\GoQwant_Assign\final.py", line 961, in <module>
+    main()
+  File "C:\Users\ASUS Vivobook\Desktop\goqwant\GoQwant_Assign\final.py", line 948, in main
+    root.mainloop()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1505, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
